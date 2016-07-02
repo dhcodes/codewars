@@ -36,5 +36,5 @@ function songDecoder(song){
 }
 
 //Comments
-/*Parentheses select a unique set of letters. This is shorter code than my answer and a better use of Regex.
+/*The parentheses select a unique set of letters. This is shorter code than my answer and a better use of Regex.
 */
